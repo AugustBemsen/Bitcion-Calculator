@@ -140,7 +140,21 @@ body {
     font-size: 1.8rem;
     font-weight: 700;
 }
-
+.profit {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: rgb(39, 223, 110);
+}
+.loss {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: rgb(233, 61, 61);
+}
+.middle {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: rgb(15, 3, 3);
+}
 /**** Footer ****/
 
 
